@@ -14,9 +14,19 @@
 
 ## Preferred Working Style
 
-I'm usually trying to get focused work done in the morning, and I'm usually mulling through random things in the afternoon. I have 2 children and they occupy my non-working hour. All that being said I'm adicted to slack and I am mostly online all the time and almost impatient for someone to say something in slack so I can think and respond.
+- I do my best focused knowledge work in the mornings. I try to reserve this time for code.
+- I'm usually mulling through random things in the afternoon. 
+- I can make morning meetings but I prefer meetings in the afternoon for the above reasons. 
+- I have 2 children and they occupy my non-working hour. 
+ 
+All that being said I'm adicted to slack and I am mostly online all the time and almost impatient for someone to say something in slack so I can think and respond.
 
-I am **_hard on issues_**. If something sucks, I will say it. I **do not** aim to be hard on people. If I come off as being abbraisive, it's not intentional. Keep reading.
+## Flaws
+
+- I am **_hard on issues_**. If something sucks, I will say so, and it's possible that it will not be said cordially. 
+- My wit is ascerbic and humor is dry. People are usually confused whether or not I'm serious in certain scenarios. 
+- In these scenarios I am intentionally unclear about my take on the issue because I want people to think for themselves and come to their own conclusions.
+- I **do not** aim to be hard on people. If I come off as being abbraisive, it's not intentional. Keep reading.
 
 ## What Motivates Me
 
