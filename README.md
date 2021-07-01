@@ -1,10 +1,16 @@
-### Hi I'm Wade 👋
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wadewilliams&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadewilliams&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&count_private=true" />
+</p>
 
+![](https://activity-graph.herokuapp.com/graph?username=wadewilliams&theme=react-dark&hide_border=true&area=true)
+
+# Howdy
  Like Rumsfeld said, I know what I know, I don't know what I don't know, and I know some of the things I don't know. I was born in Boston, I lived in Florida for 10 years, I lived in Arizona for 5 years, and I've lived in Wyoming since 2016. Minus a stint in Nepal for 3 months as a transitional period. I've worked on primarily web based software since the late 90's.
-
 ## How to Contact Me
 
  My email is on the left. I get back to email sometimes fast and sometimes slow. Don't send me random spam. If you need me, use a medium that is not email, like SMS or Slack.
+
 
 ## Preferred Working Style
 
@@ -47,3 +53,5 @@ I want to be the best. I want the people around me to be the best. I want world 
 - I do not believe that I am aggressive towards people. Sometimes I can come off as aggressively for/against an idea, but that must not be misconstrued as 
 intended towards any individual.
 - I care a lot about the work. I don't care for people who don't care.
+
+<img src="https://komarev.com/ghpvc/?username=wadewilliams" />
