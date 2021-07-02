@@ -21,26 +21,26 @@ _Here are some ways to help me work with you better._
 3. Sumtimz eye spelle wrang, specially in Slack, and on porpoise :trollface:
 4. Sometimes, I obfuscate my opinion for purposes of either humor (see 1.) or because I want you to _think for yourself_ and draw your own conclusions. In the latter case, I'm waiting to hear what you think 😅 It's good to say what you think 💬
 5. Sometimes, I spend little time crafting my words (especially on Slack). Which may be misinterpreted as disrespectful. If this happens, it's OK to say, "That's fair, but perhaps you should consider your tone." 🤗
-6. Before you and I built a relationship, it may have seemed like I did't care for you 💔
+6. Before you and I built a relationship, it may have seemed like I didn't care for you 💔
     - I may be curt, especially when I'm busy.
     - If you want my grace, help me see how considered you are by communicating in public channels and sharing your work. If there's no way for me to know how much work you're getting done, I tend to assume there isn't any.
     - My closest friends use words to describe me that I would never use, like "accessible and empathetic and loyal" 🤷 Really?
 7. I do not suffer fools well ⛔
     - If I'm working with you, I will attempt to explain things approximately twice. As my father used to say, "You don't get Three."
     - When I detect what appears to me as low competence, I tend to salvo challenges in a genuine attempt to allow the user to disprove my hypothesis of their capability.
-    - If this happens to you, read my words as asking you to either tell me that I'm wrong or take responsibility for the always excusable temporary lapse.
+    - If this happens to you, it's best to read my words as asking you to either tell me that I'm wrong or take responsibility for the always excusable temporary lapse.
     - It's OK to say "Got it" and fix the issue, and it's OK to say "You're wrong because [reasons]."
-    - You will negatively affect my view of your capability level by saying "Got it" and not fixing it.
+    - You will negatively affect my view of your capability by saying "Got it" and not fixing it.
 
 ## Preferred Working Style
 
 1. I work 100% remotely.
 2. I do my best-focused knowledge work in the mornings.
 3. I'm usually mulling through random things in the afternoon.
-4. When I get sucked into a specific thing, I might stay up all night and sleep the next day. I'll let you know when this happens so I won't miss anything important.
+4. When I get sucked into a specific thing, I might stay up all night and sleep the next day. I'll let you know when this happens, so I don't miss anything important.
 5. I can make morning meetings, but I prefer meetings in the afternoon for the above reasons.
 6. I have two children, and they occupy my non-working hour.
-7. I am online almost all the time and nearly impatiently waiting for someone to say something in Slack so I can consider it and respond.
+7. I am online almost all the time and semi-impatiently waiting for someone to say something in Slack so I can consider it and respond.
 
 
 ## What Motivates Me
@@ -55,19 +55,19 @@ _Here are some ways to help me work with you better._
 ## What Demotivates Me
 
 - **I don't feel productive after a full day of meetings.** There are _usually_ better things to do. Sometimes calls are necessary. I don't like them at the beginning of the day, and I don't like them at the end of the day.
-- **I don't react well to hearing that I did something wrong through the grapevine.** Did I f*ck up? Could you please tell me directly? When I hear about something you didn't like about me, my performance, or my behavior from a third party, I will become disengaged and trust you less. But, on the other hand, if you are direct with me, I will respond positively to you.
+- **I don't react well to learning that you didn't like something I did through the grapevine.** Did I f*ck up? Would you please tell me directly so I can fix it? When I hear you didn't like something about me, my performance, or my behavior from a third party, I will become disengaged, and I will trust you less. But, on the other hand, if you are direct with me, I will respond positively to you and appreciate the feedback.
 - **I don't care for people who don't care.** When I notice consistent sub-world-class level operation, I become frustrated. It is inaccurate to say this demotivates me. I am likely to become more direct, which may be misconstrued as aggressive, in this situation.
 
 ## My Values (and what I value in others)
 1. **Iteration** Tomorrow will be better than today, and today is better than yesterday. The math says that compound interest pays more dividends than short-term efforts.
-2. **Radical Candor** I will challenge you, because I care. I will be direct in telling you what I think. I expect you to tell me what you think, directly, as well.
+2. **Radical Candor** I will challenge you because I care. I will be direct in telling you what I think. I expect you to tell me what you think directly, as well.
 3. **Responsiveness** I do my best to be as responsive as possible - as if I'm in the same room as you. I don't expect everyone to be online all the time, but if you are online, I may become annoyed with a non-similar-ish response time to my own [communication preferences](#communication-preferences)
 4. **Transparency** Share your work, early and often. If I can't see it, I assume it doesn't exist.
 5. **Trust** We have to trust each other to work well together.
 
 ## My Blind Spots
 
-- **I say what I think.** I _do think about what I say_, and I _could_ be a politician if I spent all my time working on it, but I do not. Sometimes, especially when I'm on deadline for deliverables, I spend far less time thinking about what I say. If this comes off as abrasive, it's good to say, "Did you mean [paraphrase]?"
+- **I say what I think.** I _do think about what I say_, and I _could_ be a politician if I spent all my time working on it, but I do not. Sometimes, especially when I'm on deadline for deliverables (currently `2021-07-02`: all the time), I spend far less time thinking about what I say. If this comes off as abrasive, it's good to say, "Did you mean [paraphrase]?"
 - **I think what I do is good.** I am considerate about issues, and the work I do aims to solve those issues. But, I can convince myself that my approach is the best without input. Sometimes, I need a different perspective, well-articulated, to help me understand how my work can be better.
 - **I expect direct communication.** It's easy for emotions to be lost through text on the internet. I'm never intentionally aggressive towards people, but I'm fierce about ideas.
 
