@@ -6,26 +6,25 @@ Like Rumsfeld said,
 
 I grew up in Lynn, Massachusetts. "Lynn, Lynn, the city of sin, you never go out the way you come in." That's how the saying goes. The last 13 generations of my family lived there and the last 5 generations were Lynn Fire Department. My mother worked at the Apple store in the 80's and my father got himself off the truck and into building LFD payroll processing systems†† when I was young.
 
-Fire Department work is nothing that I've ever personally done but since my great grandfather wrote the book _Fire Fighting_, you can anticipate that I share some of the same intensity that you might expect from someone who volunteers to go into burning buildings for a living. You know, you could die at work. That's normal 🥴
+Fire Department work is nothing that I've ever personally done but since my great grandfather apparently wrote the book _Fire Fighting_, you can anticipate that I share some of the same intensity that you might expect from someone who volunteers to go into burning buildings for a living. You know, you could die at work. That's normal 🥴
 
 _Here are some ways to help me work with you better._
 
 
 ## Flaws
-4. When you and I haven't built a relationship, I may seem like I don't care for you. I'm likely to be curt. If you want to earn my respect then communicate. You do not need to communicate with me directly -- I merely need to observe your communication in order to trust you. My closest friends use words to describe me that I would never use, like "accessible and empathetic and loyal" 🤷 Really? Cool.
-
 1. My wit is acerbic; my humor is dry 👀
 2. I get excited about gifs. Sometimes I go overboard 🙃
-5. Sumtimz eye spelle wrang, specially in Slack, and on porpoise :trollface:
-3. Sometimes I obfuscate my opinion for purposes of either humor (see 1.) or because I want you to _think for yourself_ and draw your own conclusions. In the latter case I'm waiting to hear about what you think 😅 It's good to say what you think 💬
-3. Sometimes I spend little time crafting my words (especially on Slack), which can be misinterpreted as disrespectful. If this happens, it's OK to say "I don't mind you making that point, but your tone doesn't make me feel good" 🤗
-5. I do not suffer fools well.
+3. Sumtimz eye spelle wrang, specially in Slack, and on porpoise :trollface:
+4. Sometimes I obfuscate my opinion for purposes of either humor (see 1.) or because I want you to _think for yourself_ and draw your own conclusions. In the latter case I'm waiting to hear about what you think 😅 It's good to say what you think 💬
+5. Sometimes I spend little time crafting my words (especially on Slack), which can be misinterpreted as disrespectful. If this happens, it's OK to say "I don't mind you making that point, but your tone doesn't make me feel good" 🤗
+6. I do not suffer fools well.
   - If I'm working with you, I will attempt to explain things approximately twice.
   - As my father used to say, "You don't get Three".
   - When I detect what appears to me as low competence, I tend to salvo challenges in a genuine attempt to allow the user to disprove my hypothesis of their capability.
   - When this happens I am asking you to either tell me that I'm wrong or take responsibility for the lapse.
   - It's OK to say "Got it", and fix the issue, and it's OK to say "You're wrong because [reasons]".
   - You will negatively affect my attitude towards you by saying "Got it" and not fixing it.
+7. When you and I haven't built a relationship, I may seem like I don't care for you. I'm likely to be curt. If you want to earn my respect then communicate. You do not need to communicate with me directly -- I merely need to observe your communication in order to trust you. My closest friends use words to describe me that I would never use, like "accessible and empathetic and loyal" 🤷 Really? Cool.
 
 ## Preferred Working Style
 
