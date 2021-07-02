@@ -91,7 +91,7 @@ _Note:_ This is the internet, don't bother spamming me, I've blocked you before 
 
 ## My Pet Peeves
 
-- Expecting an inconsistent response time from the wrong [communication](#communication) channel
+- Expecting an inconsistent response time from the wrong [communication](#communication-preferences) channel
 - Lack of consideration
 - Lack of care
 - Lack of due diligence
