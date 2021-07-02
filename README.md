@@ -99,7 +99,7 @@ _Note:_ This is the internet, don't bother spamming me, I've blocked you before 
 
 ## Trivia <img src="https://komarev.com/ghpvc/?username=wadewilliams" />
 
-[<img src="https://wadewilliams.com/wp-content/uploads/2018/02/jul07_l.jpg" align="right" width="200" height="259"/>](https://wadewilliams.com)
+<!-- [<img src="https://wadewilliams.com/wp-content/uploads/2018/02/jul07_l.jpg" align="right" width="200" height="259"/>](https://wadewilliams.com) -->
 
 - I've lived in Wyoming since 2016.
 - I lived in Nepal for three months.
@@ -107,7 +107,8 @@ _Note:_ This is the internet, don't bother spamming me, I've blocked you before 
 - I lived in Florida for ten years.
 - I've spent some time in 47/50 states.
 - I will meet you to play pinball.
-- I used to waterski a lot.
+- I have a [Spotify Playlist called Code](https://open.spotify.com/playlist/1BO9WPHkMZFyboWtYfzQB5)
+<!-- - I used to waterski a lot. -->
 
 ##### [Moar spam...](https://wadewilliams.com)
 
