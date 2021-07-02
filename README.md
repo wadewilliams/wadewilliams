@@ -8,6 +8,9 @@ I grew up in Lynn, Massachusetts. "Lynn, Lynn, the city of sin, you never go out
 
 Fire Department work is nothing that I've ever personally done; however, I've come to understand that my great grandfather wrote the book _Fire Fighting_. So, you can anticipate that I share some of the same intensity that you might expect from someone who volunteers to go into burning buildings for a living. You know, you could die at work. That's normal 🥴
 
+
+# Wade's User Manual
+
 _Here are some ways to help me work with you better._
 
 
@@ -17,14 +20,13 @@ _Here are some ways to help me work with you better._
 3. Sumtimz eye spelle wrang, specially in Slack, and on porpoise :trollface:
 4. Sometimes, I obfuscate my opinion for purposes of either humor (see 1.) or because I want you to _think for yourself_ and draw your own conclusions. In the latter case, I'm waiting to hear what you think 😅 It's good to say what you think 💬
 5. Sometimes, I spend little time crafting my words (especially on Slack). Which may be misinterpreted as disrespectful. If this happens, it's OK to say, "I don't mind you making that point, but your tone doesn't make me feel good." 🤗
-6. I do not suffer fools well.
-  - If I'm working with you, I will attempt to explain things approximately twice.
-  - As my father used to say, "You don't get Three."
-  - When I detect what appears to me as low competence, I tend to salvo challenges in a genuine attempt to allow the user to disprove my hypothesis of their capability.
-  - When this happens, you should read my words as asking you to either tell me that I'm wrong or take responsibility for the lapse.
-  - It's OK to say "Got it" and fix the issue, and it's OK to say "You're wrong because [reasons]."
-  - You will negatively affect my attitude towards you by saying "Got it" and not fixing it.
-7. When you and I haven't built a relationship, I may seem like I don't care for you. I'm likely to be curt. If you want to earn my respect, then communicate. You do not need to demonstrate this to me directly -- I merely need to observe your communication to trust you. My closest friends use words to describe me that I would never use, like "accessible and empathetic and loyal" 🤷 Really? Cool.
+6. I do not suffer fools well ⛔
+    - If I'm working with you, I will attempt to explain things approximately twice. As my father used to say, "You don't get Three."
+    - When I detect what appears to me as low competence, I tend to salvo challenges in a genuine attempt to allow the user to disprove my hypothesis of their capability.
+    - If this happens to you, read my words as asking you to either tell me that I'm wrong or take responsibility for the lapse.
+    - It's OK to say "Got it" and fix the issue, and it's OK to say "You're wrong because [reasons]."
+    - You will negatively affect my view of your capability level by saying "Got it" and not fixing it.
+7. Before we've built a relationship, I may seem like I don't care for you 💔 I may be curt, especially when I'm busy. If you want to earn my respect, then communicate and show your work. You do not need to demonstrate this to me directly -- I need only observe your work for my trust to build in you. My closest friends use words to describe me that I would never use, like "accessible and empathetic and loyal" 🤷 Really? Cool.
 
 ## Preferred Working Style
 
@@ -73,7 +75,7 @@ My response time will be lagging if it's before 9 AM Mountain Time. I'm also slo
   - _Expect a reply within one week._
 - **Slack**: I'm on Slack nearly all waking hours.
   - _Expect a reply within 20 minutes_.
-  - Unless it's a private conversation, _don't DM me, please_.
+  - Unless it's a private conversation, _don't DM me, please_. There's a public channel for that.
   - If you have direct feedback for me, _**please** DM me, please_: "can we talk?" and I will zoom you in ASAP.
 - **SMS/Phone**: If you couldn't raise me on Slack, it's unlikely that phone will work better. I do not answer calls from unknown numbers, and my phone is always on silent.
   - _Expect a reply time between 8 - ∞ hours if I don't have your number_
