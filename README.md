@@ -30,7 +30,7 @@ _Here are some ways to help me work with you better._
     - When I detect what appears to me as low competence, I tend to salvo challenges in a genuine attempt to allow the user to disprove my hypothesis of their capability.
     - If this happens to you, it's best to read my words as asking you to either tell me that I'm wrong or take responsibility for the always excusable temporary lapse.
     - It's OK to say "Got it" and fix the issue, and it's OK to say "You're wrong because [reasons]."
-    - You will negatively affect my view of your capability by saying "Got it" and not fixing it.
+    - You are likely to negatively affect my view of your capability by saying "Got it" and not fixing it.
 
 ## Preferred Working Style
 
@@ -55,12 +55,12 @@ _Here are some ways to help me work with you better._
 ## What Demotivates Me
 
 - **I don't feel productive after a full day of meetings.** There are _usually_ better things to do. Sometimes calls are necessary. I don't like them at the beginning of the day, and I don't like them at the end of the day.
-- **I don't react well to learning that you didn't like something I did through the grapevine.** Did I f*ck up? Would you please tell me directly so I can fix it? When I hear you didn't like something about me, my performance, or my behavior from a third party, I will become disengaged, and I will trust you less. But, on the other hand, if you are direct with me, I will respond positively to you and appreciate the feedback.
+- **I don't react well to learning that you didn't like something I did through the grapevine.** Did I f*ck up? Would you please tell me directly so I can fix it? When I hear you didn't like something about me, my performance, or my behavior from a third party, I may become disengaged, and I tend to trust you less. But, on the other hand, if you are direct with me, I will respond positively to you and appreciate the feedback.
 - **I don't care for people who don't care.** When I notice consistent sub-world-class level operation, I become frustrated. It is inaccurate to say this demotivates me. I am likely to become more direct, which may be misconstrued as aggressive, in this situation.
 
 ## My Values (and what I value in others)
 1. **Iteration** Tomorrow will be better than today, and today is better than yesterday. The math says that compound interest pays more dividends than short-term efforts.
-2. **Radical Candor** I will challenge you because I care. I will be direct in telling you what I think. I expect you to tell me what you think directly, as well.
+2. **Radical Candor** I will challenge you because I care. I will overtly tell you my considered opinion. I expect that you will do the same.
 3. **Responsiveness** I do my best to be as responsive as possible - as if I'm in the same room as you. I don't expect everyone to be online all the time, but if you are online, I may become annoyed with a non-similar-ish response time to my own [communication preferences](#communication-preferences)
 4. **Transparency** Share your work, early and often. If I can't see it, I assume it doesn't exist.
 5. **Trust** We have to trust each other to work well together.
