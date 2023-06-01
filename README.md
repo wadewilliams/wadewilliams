@@ -65,6 +65,7 @@ _Here are some ways to help me work with you better._
 
 <details>
     <summary>My Values (and what I value in others)</summary>
+
 1. **Iteration** Tomorrow will be better than today, and today is better than yesterday. The math says that compound interest pays more dividends than short-term efforts.
 2. **Radical Candor** I will challenge you because I care. I will overtly tell you my considered opinion. I expect that you will do the same.
 3. **Responsiveness** I do my best to be as responsive as possible - as if I'm in the same room as you. I don't expect everyone to be online all the time, but if you are online, I may become annoyed with a non-similar-ish response time to my own [communication preferences](#communication-preferences).
